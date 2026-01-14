@@ -1,47 +1,43 @@
-# Hi, I'm Vitali 👋
+# Hi, I'm Vitali Grecciani
 
-**Full-stack developer** based in Austria 🇦🇹, specializing in AI/ML, web applications, and video generation.
+I'm a full-stack developer based in Austria, building modern web products with an AI layer: RAG/search, content ingestion pipelines, and automation.
 
-## 🚀 What I Build
+## What I focus on
 
-- 🤖 **AI-powered web apps** – integrating LLMs and ML models into production
-- 🎬 **Video generation tools** – working with CogVideoX, ComfyUI, and AI video pipelines  
-- 📄 **Document automation** – PDF generation, data processing, React/TypeScript apps
-- ⚙️ **Automation workflows** – n8n, API orchestration, multi-agent systems
+- AI-augmented web apps (RAG, search, assistants)
+- Data ingestion & automation (scheduled sync, webhooks, pipelines)
+- Product-grade UX with modern React/Next.js
+- Creative AI workflows (video/tooling), when it fits the product
 
-## 🛠 Tech Stack
+## Tech stack (what I use in production)
 
-**Frontend:** React, TypeScript, Next.js, Vite, Tailwind CSS  
-**Backend & APIs:** Node.js, Python, serverless functions, Vercel  , Django
-**Database:** PostgreSQL, Google Cloud SQL  
-**AI/ML:** Google AI Studio (Gemini), Claude API, prompt engineering, fine-tuning  , RAG (Retrieval Augmented Generation), OpenAI API
-**Tools:** Windsurf IDE, Git, ComfyUI, n8n, Docker
+**Web:** Next.js (App Router), React, TypeScript  
+**UI:** Tailwind CSS, Radix UI primitives, Framer Motion, Lucide  
+**Backend:** Node.js, Next.js Route Handlers (API), server-side rendering  
+**Auth:** NextAuth v5 + Prisma Adapter (DB sessions)  
+**Database:** PostgreSQL, Prisma ORM, pgvector (vector search / embeddings)  
+**AI:** Google Gemini (Generative AI), OpenAI APIs (as needed)  
+**Testing:** Vitest + Testing Library, Playwright (E2E)  
+**Infra/Tools:** Docker, Git, automation workflows (e.g., n8n)
 
-## 📌 Featured Projects
+## Featured project
 
-### [🐾 PetPainDetectorApp](https://github.com/VitaliGrecciani/PetPainDetectorApp)
-AI-assisted web app that analyzes pet audio, estimates pain severity, and provides care recommendations. Built with React, Vite, Tailwind CSS, and PWA support.
+### Logosphäre (Austrian tax knowledge platform)
+Repository: https://github.com/VitaliGrecciani/my_logosfera_app
 
-### 🎥 Video Generation Pipeline
-Custom workflows for AI-powered video generation using CogVideoX and ComfyUI – exploring creative automation and content production.
+- Next.js + Prisma + PostgreSQL foundation with committed migrations
+- RAG-ready schema (pgvector-backed embeddings table) + indexing pipeline
+- Server endpoints for retrieval/search and scheduled content sync
+- NextAuth-based authentication and a clean reading/discussion experience
+- Tests: unit/integration (Vitest) and E2E (Playwright)
 
-### 📊 PDF Report Generator
-Automatic PDF report generation system with React/TypeScript frontend and backend processing – used for business automation.
+## Currently exploring
 
-### [📚 Logosfera](https://github.com/VitaliGrecciani/my_logosfera_app)
-Austrian tax information platform with RAG technology. Django web app providing intelligent guidance on Austrian tax regulations and procedures – enabling smart tax assistance.
-## 🌱 Currently Exploring
+- More robust RAG pipelines (quality, evaluation, cost control)
+- Agentic workflows and external AI backends (proxy-style integrations)
+- Production hardening: observability, reliability, security, DX
 
-- Advanced AI model training and fine-tuning
-- Multi-agent AI systems and orchestration
-- Voice interfaces for development (WisperFlow)
-- Cloud GPU services for video/ML workloads
+## Contact
 
-## 📫 Get in Touch
-
-- GitHub: [@VitaliGrecciani](https://github.com/VitaliGrecciani)
-- Location: Klosterneuburg, Austria
-
----
-
-💡 Open to collaborations on AI/ML projects, web applications, and creative automation tools.
+- GitHub: https://github.com/VitaliGrecciani
+- Location: Austria
