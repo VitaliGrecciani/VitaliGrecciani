@@ -12,7 +12,8 @@
 ## 🛠 Tech Stack
 
 **Frontend:** React, TypeScript, Next.js, Vite, Tailwind CSS  
-**Backend & APIs:** Node.js, Python, serverless functions, Vercel  
+**Backend & APIs:** Node.js, Python, serverless functions, Vercel  , Django
+**Database:** PostgreSQL, Google Cloud SQL  
 **AI/ML:** Google AI Studio (Gemini), Claude API, prompt engineering, fine-tuning  
 **Tools:** Windsurf IDE, Git, ComfyUI, n8n, Docker
 
@@ -26,6 +27,9 @@ Custom workflows for AI-powered video generation using CogVideoX and ComfyUI –
 
 ### 📊 PDF Report Generator
 Automatic PDF report generation system with React/TypeScript frontend and backend processing – used for business automation.
+
+### [📚 Logosfera](https://github.com/VitaliGrecciani/my_logosfera_app)
+Academic discourse platform for humanities and theology. Django web app with PostgreSQL on Google Cloud, inspired by AlphaXiv – enabling scholarly publishing and discussion.
 
 ## 🌱 Currently Exploring
 
