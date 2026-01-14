@@ -14,7 +14,7 @@
 **Frontend:** React, TypeScript, Next.js, Vite, Tailwind CSS  
 **Backend & APIs:** Node.js, Python, serverless functions, Vercel  , Django
 **Database:** PostgreSQL, Google Cloud SQL  
-**AI/ML:** Google AI Studio (Gemini), Claude API, prompt engineering, fine-tuning  
+**AI/ML:** Google AI Studio (Gemini), Claude API, prompt engineering, fine-tuning  , RAG (Retrieval Augmented Generation), OpenAI API
 **Tools:** Windsurf IDE, Git, ComfyUI, n8n, Docker
 
 ## 📌 Featured Projects
