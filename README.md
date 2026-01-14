@@ -29,8 +29,7 @@ Custom workflows for AI-powered video generation using CogVideoX and ComfyUI –
 Automatic PDF report generation system with React/TypeScript frontend and backend processing – used for business automation.
 
 ### [📚 Logosfera](https://github.com/VitaliGrecciani/my_logosfera_app)
-Academic discourse platform for humanities and theology. Django web app wwith PostgreSQL on Google Cloud – enabling scholarly publishing discussion.
-
+Austrian tax information platform with RAG technology. Django web app providing intelligent guidance on Austrian tax regulations and procedures – enabling smart tax assistance.
 ## 🌱 Currently Exploring
 
 - Advanced AI model training and fine-tuning
