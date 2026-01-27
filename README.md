@@ -2,24 +2,18 @@
 
 I'm a full-stack developer based in Austria, building modern web products with an AI layer: RAG/search, content ingestion pipelines, and automation.
 
-## What I focus on
+### How I work
 
-- AI-augmented web apps (RAG, search, assistants)
-- Data ingestion & automation (scheduled sync, webhooks, pipelines)
-- Product-grade UX with modern React/Next.js
-- Creative AI workflows (video/tooling), when it fits the product
+I focus on **building complete products**.
 
-## Tech stack (what I use in production)
+My workflow leverages **AI tools** to accelerate development. This allows me to move quickly from a concept to a working executable, dedicating more time to architecture, privacy, and the final user experience.
 
-**Web:** Next.js (App Router), React, TypeScript  
-**UI:** Tailwind CSS, Radix UI primitives, Framer Motion, Lucide  
-**Backend:** Node.js, Next.js Route Handlers (API), server-side rendering  
-**Auth:** NextAuth v5 + Prisma Adapter (DB sessions)  
-**Database:** PostgreSQL, Prisma ORM, pgvector (vector search / embeddings)  
-**AI:** Google Gemini (Generative AI), OpenAI APIs (as needed)  
-**Testing:** Vitest + Testing Library, Playwright (E2E)  
-**Infra/Tools:** Docker, Git, automation workflows (e.g., n8n)
+**My primary toolkit:**
+* **Core:** React, Next.js, Electron
+* **Style:** Tailwind CSS, Modern UI principles
+* **AI:** LLMs (Claude, Gemini) for efficient implementation
 
+---
 ## Featured project
 
 ### Logosphäre (Austrian tax knowledge platform)
