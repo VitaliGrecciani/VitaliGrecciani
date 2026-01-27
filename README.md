@@ -23,7 +23,7 @@ I'm a full-stack developer based in Austria, building modern web products with a
 ## Featured project
 
 ### Logosphäre (Austrian tax knowledge platform)
-Repository: https://github.com/VitaliGrecciani/my_logosfera_app
+Repository: https://github.com/VitaliGrecciani/tax-knowledge-platform
 
 - Next.js + Prisma + PostgreSQL foundation with committed migrations
 - RAG-ready schema (pgvector-backed embeddings table) + indexing pipeline
@@ -39,5 +39,5 @@ Repository: https://github.com/VitaliGrecciani/my_logosfera_app
 
 ## Contact
 
-- GitHub: https://github.com/VitaliGrecciani
-- Location: Austria
+- ☕ **Support:** [Buy me a coffee @fractalflux](https://ko-fi.com/fractalflux)
+- 🏔️ **Location:** Austria
